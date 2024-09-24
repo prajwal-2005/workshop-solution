@@ -1,0 +1,30 @@
+header{
+    color:gold;
+    margin: 0%;
+    text-align: center;
+    text-size-adjust:var();
+}
+#header{
+    background-color: whitesmoke;
+}
+
+.container {
+    width: 80%;
+    margin:  auto;
+    padding: 20px;
+
+}
+h5{
+    color: rgb(255, 127, 138);
+    text-align: center;
+
+}
+.profile-picture img:hover {
+    box-shadow:0 0 20px rgba(0,0,0,0.3);
+    transition: box-shadow 0.3s ease;
+}
+footer{
+    color: blue;
+    text-align: center;
+}
+
